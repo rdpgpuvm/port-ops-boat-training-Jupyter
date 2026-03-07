@@ -177,8 +177,3 @@ model/
 ```
 
 ---
-
-## 🔗 Related Repos
-
-- Training script (v3): [port-ops-boat-training](https://github.com/rdpgpuvm/port-ops-boat-training)
-- Inference API: [port-ops-boat-inference](https://github.com/rdpgpuvm/port-ops-boat-inference)
